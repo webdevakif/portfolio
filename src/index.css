@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    zoom: 99%;
+}
+*{
+    transition: all 0.25s;
+}
