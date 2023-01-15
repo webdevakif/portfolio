@@ -20,9 +20,7 @@ export default function Navbar() {
           <a href="#samples" className="mr-5 hover:text-white font-bold">
             Graphic Designing Samples
           </a>
-          <a href="#contact" className="mr-5 hover:text-white font-bold">
-            Acedemic Writing
-          </a>
+   
         </nav>
         <a
           href="#contact"

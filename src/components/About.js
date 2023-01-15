@@ -10,21 +10,22 @@ export default function About() {
             <br className="hidden lg:inline-block" />Web Development Services, Graphic Designing, Acedemic Writing Services
             Available
           </h1>
-          <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
-          </p>
+ 
           <div className="flex justify-center hover:mb-8">
             <a
               href="#contact"
               className="inline-flex text-white transition bg-red-800 border-2 hover:border-red-800 py-2 px-6 focus:outline-none hover:bg-red-200 border-red-200 hover:text-black font-bold	 rounded-xl text-lg">
-              Contact Me
+              Hire Me
             </a>
             <a
               href="#projects"
               className="transition font-bold rounded-xl ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              See My Projects & Work
+              See My Work
+            </a>
+            <a
+              href="cv.pdf"
+              className="transition font-bold rounded-xl ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+              My CV
             </a>
           </div>
         </div>
