@@ -7,14 +7,13 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi There,
-            <br className="hidden lg:inline-block" />Web Development Services, Graphic Designing, Acedemic Writing Services
-            Available
+            <br className="hidden lg:inline-block" /> Web Development Services, Graphic Designing, and Academic Writing Services Available.
           </h1>
  
           <div className="flex justify-center hover:mb-8">
             <a
               href="#contact"
-              className="inline-flex text-white transition bg-red-800 border-2 hover:border-red-800 py-2 px-6 focus:outline-none hover:bg-red-200 border-red-200 hover:text-black font-bold	 rounded-xl text-lg">
+              className="inline-flex items-center text-white transition bg-black border-4 px-6 focus:outline-none hover:bg-green-800 border-white-800 hover:text-white font-bold rounded-3xl py-2 text-md">
               Hire Me
             </a>
             <a
